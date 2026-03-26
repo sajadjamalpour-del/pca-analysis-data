@@ -1,0 +1,34 @@
+,group,FDR,nGenes,Pathway size,Fold enriched,Pathway,URL,Genes
+1,1,5.78E-02,1,18,142.3777778,Fatty acid biosynthesis,https://www.genome.jp/kegg-bin/show_pathway?rno00061,ENSRNOG00000045947
+2,1,5.78E-02,1,48,54.76068376,Fatty acid degradation,https://www.genome.jp/kegg-bin/show_pathway?rno00071,ENSRNOG00000045947
+3,1,5.78E-02,1,60,39.54938272,Fatty acid metabolism,https://www.genome.jp/kegg-bin/show_pathway?rno01212,ENSRNOG00000045947
+4,1,5.78E-02,1,80,30.95169082,PPAR signaling pathway,https://www.genome.jp/kegg-bin/show_pathway?rno03320,ENSRNOG00000045947
+5,1,5.78E-02,1,85,27.38034188,Cardiac muscle contraction,https://www.genome.jp/kegg-bin/show_pathway?rno04260,ENSRNOG00000032378
+6,1,5.78E-02,1,84,28.10087719,Insulin secretion,https://www.genome.jp/kegg-bin/show_pathway?rno04911,ENSRNOG00000032378
+7,1,5.78E-02,1,73,31.87562189,Thyroid hormone synthesis,https://www.genome.jp/kegg-bin/show_pathway?rno04918,ENSRNOG00000032378
+8,1,5.78E-02,1,67,34.44623656,Adipocytokine signaling pathway,https://www.genome.jp/kegg-bin/show_pathway?rno04920,ENSRNOG00000045947
+9,1,5.78E-02,1,95,24.26893939,Aldosterone synthesis and secretion,https://www.genome.jp/kegg-bin/show_pathway?rno04925,ENSRNOG00000032378
+10,1,5.78E-02,1,37,64.71717172,Aldosterone-regulated sodium reabsorption,https://www.genome.jp/kegg-bin/show_pathway?rno04960,ENSRNOG00000032378
+11,2,1.73E-02,2,66,41.87581699,Glycolysis/Gluconeogenesis,https://www.genome.jp/kegg-bin/show_pathway?rno00010,"ENSRNOG00000013103, ENSRNOG00000013600"
+12,2,1.95E-02,5,1534,3.928746627,Metabolic pathways,https://www.genome.jp/kegg-bin/show_pathway?rno01100,"ENSRNOG00000007231, ENSRNOG00000013103, ENSRNOG00000004296, ENSRNOG00000013600, ENSRNOG00000040301"
+13,2,1.95E-02,2,110,22.71985816,HIF-1 signaling pathway,https://www.genome.jp/kegg-bin/show_pathway?rno04066,"ENSRNOG00000013103, ENSRNOG00000013600"
+14,2,8.33E-02,1,28,46.42753623,Mucin type O-glycan biosynthesis,https://www.genome.jp/kegg-bin/show_pathway?rno00512,ENSRNOG00000040301
+15,2,8.33E-02,1,40,28.10087719,Other types of O-glycan biosynthesis,https://www.genome.jp/kegg-bin/show_pathway?rno00514,ENSRNOG00000040301
+16,2,8.33E-02,1,43,28.86036036,Pyruvate metabolism,https://www.genome.jp/kegg-bin/show_pathway?rno00620,ENSRNOG00000013103
+17,2,8.33E-02,1,31,38.13690476,Propanoate metabolism,https://www.genome.jp/kegg-bin/show_pathway?rno00640,ENSRNOG00000013103
+18,2,8.33E-02,1,37,32.35858586,Nicotinate and nicotinamide metabolism,https://www.genome.jp/kegg-bin/show_pathway?rno00760,ENSRNOG00000004296
+19,2,8.56E-02,1,53,21.79251701,Pyrimidine metabolism,https://www.genome.jp/kegg-bin/show_pathway?rno00240,ENSRNOG00000004296
+20,2,8.56E-02,1,53,23.72962963,Cysteine and methionine metabolism,https://www.genome.jp/kegg-bin/show_pathway?rno00270,ENSRNOG00000013103
+21,5,9.92E-02,1,157,26.47520661,Phagosome,https://www.genome.jp/kegg-bin/show_pathway?rno04145,ENSRNOG00000031707
+22,5,9.92E-02,1,127,28.34955752,Apoptosis,https://www.genome.jp/kegg-bin/show_pathway?rno04210,ENSRNOG00000031707
+23,5,9.92E-02,1,162,21.94178082,Tight junction,https://www.genome.jp/kegg-bin/show_pathway?rno04530,ENSRNOG00000031707
+24,5,9.92E-02,1,82,45.76428571,Gap junction,https://www.genome.jp/kegg-bin/show_pathway?rno04540,ENSRNOG00000031707
+25,5,9.92E-02,1,75,47.81343284,Complement and coagulation cascades,https://www.genome.jp/kegg-bin/show_pathway?rno04610,ENSRNOG00000009855
+26,5,9.92E-02,1,174,21.21523179,Motor proteins,https://www.genome.jp/kegg-bin/show_pathway?rno04814,ENSRNOG00000031707
+27,5,9.92E-02,1,255,14.69495413,Parkinson disease,https://www.genome.jp/kegg-bin/show_pathway?rno05012,ENSRNOG00000031707
+28,5,9.92E-02,1,259,14.30133929,Prion disease,https://www.genome.jp/kegg-bin/show_pathway?rno05020,ENSRNOG00000031707
+29,5,9.92E-02,1,240,14.96962617,Salmonella infection,https://www.genome.jp/kegg-bin/show_pathway?rno05132,ENSRNOG00000031707
+30,6,2.31E-03,2,79,62.81372549,Steroid hormone biosynthesis,https://www.genome.jp/kegg-bin/show_pathway?rno00140,"ENSRNOG00000020035, ENSRNOG00000063905"
+31,6,2.31E-03,2,51,74.5,Ovarian steroidogenesis,https://www.genome.jp/kegg-bin/show_pathway?rno04913,"ENSRNOG00000020035, ENSRNOG00000063905"
+32,6,2.31E-03,2,66,54.29661017,Cortisol synthesis and secretion,https://www.genome.jp/kegg-bin/show_pathway?rno04927,"ENSRNOG00000020035, ENSRNOG00000063905"
+33,6,9.27E-03,2,147,23.38321168,Cushing syndrome,https://www.genome.jp/kegg-bin/show_pathway?rno04934,"ENSRNOG00000020035, ENSRNOG00000063905"
